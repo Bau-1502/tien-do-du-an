@@ -1,20 +1,10 @@
 {
   "project": "DỰ ÁN ONLINE",
-  "updated_at": "2026-01-29 10:25:18",
+  "updated_at": "2026-01-29 10:26:42",
   "summary": {
     "done": 0,
     "doing": 0,
-    "todo": 1
+    "todo": 0
   },
-  "tasks": [
-    {
-      "id": "1502",
-      "name": "dự án bình định",
-      "owner": "báu",
-      "status": "todo",
-      "percent": 15,
-      "due": "",
-      "note": ""
-    }
-  ]
+  "tasks": []
 }
