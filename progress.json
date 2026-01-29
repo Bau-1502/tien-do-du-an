@@ -1,10 +1,20 @@
 {
   "project": "DỰ ÁN ONLINE",
-  "updated_at": "2026-01-29 10:26:42",
+  "updated_at": "2026-01-29 10:27:07",
   "summary": {
     "done": 0,
     "doing": 0,
-    "todo": 0
+    "todo": 1
   },
-  "tasks": []
+  "tasks": [
+    {
+      "id": "1502",
+      "name": "du an binh dinh",
+      "owner": "bau",
+      "status": "todo",
+      "percent": 15,
+      "due": "mai",
+      "note": ""
+    }
+  ]
 }
